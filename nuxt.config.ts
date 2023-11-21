@@ -5,4 +5,5 @@ export default defineNuxtConfig({
   edgeDb: {
     auth: true,
   },
+
 })
